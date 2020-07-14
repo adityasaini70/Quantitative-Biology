@@ -101,9 +101,6 @@ t = list(file_content[4])
 # t =['A','Y','C','Y','N','R','C','K','C','R','B','P'] #For testing purposes
 s.pop()
 t.pop()
-# print(len(s), len(t))
-# print(s)
-# print(t)
 
 
 #Creating the similarity/identity matrix (zero gap penalty)
@@ -121,7 +118,6 @@ print('2nd Protein sequence =>',''.join(t))
 out_s = ''.join(aligned_s)
 out_t = ''.join(aligned_t)
 
-print('Aligned output : ')
 
 b = ''
 for i in range(len(out_s)):
@@ -130,13 +126,7 @@ for i in range(len(out_s)):
 	else :
 		b += ' '
 
-print(out_s)
-print(b)
-print(out_t)
-# print(len(s), len(t))
-# print(aligned_s)
-# print(aligned_t)
-# print(nw_matrix[0])
+print('Aligned output : \n', out_s, '\n', b, '\n', out_t)
 
 print('Sum matrix : ')
 print(nw_matrix)
