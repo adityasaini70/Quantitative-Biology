@@ -14,4 +14,7 @@ The projects are part of the course Introduction to Quantitative Biology, offere
   python alignment_script.py -i <input_file>
   ```
 
-- ### [ATP Interacting Residues](https://www.google.com/search?q=needleman+wunsch+algorithm&oq=needlman&aqs=chrome.1.69i57j0l7.2449j0j1&sourceid=chrome&ie=UTF-8)
+- ### [Prediction of ATP interacting residues](https://github.com/adityasaini70/Quantitative-Biology-Portfolio/tree/master/Prediction%20of%20ATP%20interacting%20residues)
+  The objective of this project was to detect the presence of ATP interacting residues in a given protein sequence.
+  - Research Paper referred : **Jagat S Chauhan, Nitish K Mishra & Gajendra PS Raghava : 
+    [Identification of ATP binding residues of a protein from its primary sequence](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-434)**
