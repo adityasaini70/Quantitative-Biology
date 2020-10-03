@@ -8,7 +8,7 @@ The projects are part of the course Introduction to Quantitative Biology, offere
   **Note :** The implementation corresponds to **gap penalty = 0** and the scoring scheme as identity scoring scheme.
 
 
-  To use the script:
+  
 
   ```
   python alignment_script.py -i <input_file>
