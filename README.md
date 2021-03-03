@@ -13,6 +13,10 @@ The projects are part of the course Introduction to Quantitative Biology, offere
   ```
   python alignment_script.py -i <input_file>
   ```
+  
+  **Example Output:**
+  
+  ![image](https://user-images.githubusercontent.com/49980787/109796994-de0ad300-7c3e-11eb-9e11-af2c345e1a02.png)
 
 - ### [Prediction of ATP interacting residues](https://github.com/adityasaini70/Quantitative-Biology-Portfolio/tree/master/Prediction%20of%20ATP%20interacting%20residues)
   The objective of this project was to detect the presence of ATP interacting residues in a given protein sequence.
