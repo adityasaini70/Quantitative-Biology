@@ -5,7 +5,7 @@ The projects are part of the course Introduction to Quantitative Biology, offere
 - ### [Protein Sequence Alignment Using Needleman–Wunsch algorithm](https://github.com/adityasaini70/Quantitative-Biology-Portfolio/tree/master/Protein%20Sequence%20alignment%20using%20NW%20algorithm) 
   The code takes input 2 sequences and aligns them with each other, such that their similarity score is maximum using the **Needleman-Wunsch algorithm**. 
 
-  **Note :** The implementation corresponds to **gap penalty = 0** and the scoring scheme as identity scoring scheme.
+  **Note :** The implementation corresponds to **gap penalty = 0** coupled with an identity scoring scheme.
 
 
   To use the script:
