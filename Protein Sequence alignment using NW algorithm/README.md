@@ -10,5 +10,8 @@ To use the script:
 python alignment_script.py -i <input_file>
 ```
 
-The above algorithm was part of an assignment for the course **Introduction to Quantitative Biology** offered to undergraduate students at Indraprastha Institute of Information Technology, Delhi (IIITD). 
+**Example Output:**
+  
+![image](https://user-images.githubusercontent.com/49980787/109796994-de0ad300-7c3e-11eb-9e11-af2c345e1a02.png)
+
  
