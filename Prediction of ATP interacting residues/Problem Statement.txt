@@ -1,5 +1,0 @@
-Students need to participate in Kaggle competition created for predicting ATP Interacting residues. This assignment is for each student (no group activity). I wish to state it again, this is not a group assignment. Please create Kaggle team by your roll-number (or admission number) so we can evaluate student based on score leaderboard of kaggle. Final evaluation will be based on your AUC score in Private Leaderboard, student may use Public leaderboard for testing your model 
-Final prediction/output with Python code should be submitted as assignment
-Evaluation will be based performance (AUC of ROC curve in Private Leaderboard) at Kaggle site and submitted python codes
-You may join this competition using following url
-https://www.kaggle.com/t/11638f46505b4f6c96c580deaaf62594
